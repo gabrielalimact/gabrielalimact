@@ -1,6 +1,6 @@
 ### Hello, World!! I'm Gabriela Cena 🥰
-<img align="right" alt="sailorGif" src="https://i.pinimg.com/originals/a8/67/a1/a867a11aef41ccf594050813fcad2f3f.gif" height="170px" class="giphy-embed" allowFullScreen>
-
+<div>
+  <img align="right" alt="sailorGif" src="https://i.pinimg.com/originals/a8/67/a1/a867a11aef41ccf594050813fcad2f3f.gif" height="150px" class="giphy-embed" allowFullScreen>
 
 👩🏻‍💻 I’m a computer engineering student at @[UFAL](https://ufal.br/).  
 🌱 I’m currently learning ReactJS and ReactNative  
@@ -11,7 +11,7 @@
   <a href = "mailto:lgcl@ic.ufal.br"><img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" height="20px" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leticia-gabriela-cena-de-lima-1875541b1/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="20px"  target="_blank"></a>  
 </div>
- 
+</div>
 <br>
 <div>
 
