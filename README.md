@@ -1,5 +1,5 @@
-### Hello, World!! I'm Gabriela Cena 🥰
 <div>
+  <h2>Hello, World!! I'm Gabriela Cena 🥰</h2>
   <img align="right" alt="sailorGif" src="https://i.pinimg.com/originals/a8/67/a1/a867a11aef41ccf594050813fcad2f3f.gif" height="150px" class="giphy-embed" allowFullScreen>
 
 👩🏻‍💻 I’m a computer engineering student at @[UFAL](https://ufal.br/).  
