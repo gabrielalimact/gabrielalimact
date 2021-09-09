@@ -3,7 +3,7 @@
   <img align="right" alt="sailorGif" src="https://i.pinimg.com/originals/a8/67/a1/a867a11aef41ccf594050813fcad2f3f.gif" height="150px" class="giphy-embed" allowFullScreen>
 
 👩🏻‍💻 I’m a computer engineering student at @[UFAL](https://ufal.br/).  
-🌱 I’m currently learning ReactJS and ReactNative  
+🌱 I’m currently learning more about web/mobile development, with a focus on Front End.  
 😄 Pronouns: she/her  
 📫 How to reach me:
 - <div> 
