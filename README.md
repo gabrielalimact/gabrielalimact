@@ -9,7 +9,7 @@
 - <div> 
   <a href="https://instagram.com/cenagabrielaa" target="_blank"><img src="https://www.campolargo.pr.leg.br/imagens/instagram.png/image_preview" height="20px" target="_blank"></a>
   <a href = "mailto:lgcl@ic.ufal.br"><img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" height="20px" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leticia-gabriela-cena-de-lima-1875541b1/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="20px"  target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/gabrielalimact/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="20px"  target="_blank"></a>  
 </div>
 </div>
 <br>
