@@ -3,13 +3,12 @@
   <img align="right" alt="sailorGif" src="https://i.pinimg.com/originals/a8/67/a1/a867a11aef41ccf594050813fcad2f3f.gif" height="150px" class="giphy-embed" allowFullScreen>
 
 👩🏻‍💻 I’m a computer engineering student at @[UFAL](https://ufal.br/).  
-🌱 I’m currently working as Web Developer Front-end Jr.  
+🌱 I’m currently working as Web/Mobile Developer Front-end.  
 😄 Pronouns: she/her  
 📫 How to reach me:
 - <div> 
-  <a href="https://instagram.com/cenagabrielaa" target="_blank"><img src="https://www.campolargo.pr.leg.br/imagens/instagram.png/image_preview" height="20px" target="_blank"></a>
   <a href = "mailto:lgcl@ic.ufal.br"><img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" height="20px" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabrielalimact/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="20px"  target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/gabrielalimact/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="20px"  target="_blank"></a>  
 </div>
 </div>
 <br>
